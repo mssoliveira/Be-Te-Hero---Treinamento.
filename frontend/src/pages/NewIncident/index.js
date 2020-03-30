@@ -7,6 +7,7 @@ import './style.css';
 
 import logoImg from '../../assets/logo.svg';
 
+
 export default function NewIncident(){
     const [title, setTitle] = useState('');
     const [description, setDescription] = useState('');
@@ -15,6 +16,10 @@ export default function NewIncident(){
     const history = useHistory();
     const ongId = localStorage.getItem('ongId');
     
+    if(ongId == null){
+        history.push('/');
+    }
+
     async function handleNewIncident(e){
         e.preventDefault();
         const data = {
@@ -34,7 +39,7 @@ export default function NewIncident(){
         }
     }
 
-    return ( 
+    return (         
         <div className="new-incident-container">
             <div className="content">
                 <section>
