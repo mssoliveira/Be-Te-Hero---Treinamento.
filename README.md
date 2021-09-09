@@ -1,13 +1,4 @@
-<h1 align="center">
-  <a href="https://mauriciosouza.me/" target="_blank">
-    Maurício Souza
-  </a>
-</h1>
-
-<p align="center">
-  <strong>Projeto de Aprendizagem do Reactjs, node.js e React Native</strong><br>
-  Usado para aprender a linguagem.
-</p>
+<p align="center"><a href="https://mauriciosouza.com.br" target="_blank"><img src="https://mauriciosouza.com.br/assets/img/logo.png" width="400"></a></p>
 
 <p align="center">
   <a href="https://twitter.com/intent/follow?screen_name=mauricinsouza">
@@ -15,8 +6,12 @@
   </a>
 </p>
 
+## Sobre o Projeto
 
+Projeto de Aprendizagem do Reactjs, node.js e React Native, Usado para aprender a linguagem.
 
-## 📋 Programas usados
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+
+## Programas usados
 
 PowerSheel com comandos, Visual Studio Code e Node.js.
