@@ -10,7 +10,6 @@
 
 Projeto de Aprendizagem do Reactjs, node.js e React Native, Usado para aprender a linguagem.
 
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 ## Programas usados
 
